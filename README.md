@@ -1,9 +1,9 @@
 <h1 align="center">🔥 Personal Fitness Tracker 🔥</h1>
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/466e560e-7f10-4a68-a4bd-1aa54bc7bcdd)" width="45%" alt="Fitness Tracker Image 1">
+  <img src="https://github.com/user-attachments/assets/f30e39c3-af39-4683-925b-4828edd38be5" width="45%" alt="Fitness Tracker Image 1">
   <br>
-  <img src="![image](https://github.com/user-attachments/assets/7f35f1fb-ca75-4afc-9cd8-703f8d78fdfb)" width="45%" alt="Fitness Tracker Image 2">
+  <img src="https://github.com/user-attachments/assets/7f35f1fb-ca75-4afc-9cd8-703f8d78fdfb" width="45%" alt="Fitness Tracker Image 2">
 </p>
 
 ---
