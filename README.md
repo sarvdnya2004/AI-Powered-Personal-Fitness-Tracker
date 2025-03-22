@@ -70,18 +70,6 @@ predictions and insightful visualizations to stay on track.
   <code>python src/main.py</code></li>
 </ol>
 
----
-
-<h2>📊 Sample Visualizations</h2>
-<p>
-<b>Progress Over Time</b><br>
-<img src="path/to/progress_chart.png" width="60%" alt="Progress Visualization">
-</p>
-
-<p>
-<b>Prediction vs. Actual Data</b><br>
-<img src="path/to/prediction_chart.png" width="60%" alt="Prediction Visualization">
-</p>
 
 ---
 
